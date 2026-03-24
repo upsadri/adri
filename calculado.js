@@ -1,6 +1,6 @@
-let numero1 = 100
-let numero2 = 100
-let operacao = "*"
+let numero1 = 10
+let numero2 = 5
+let operacao = "/"
 
 if (operacao === "+"){
  let soma = numero1 + numero2
